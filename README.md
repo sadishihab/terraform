@@ -2,7 +2,7 @@
 
 ## Technologies used:
 
-- Terraform, AWS, Docker, Linux, Git, AWS EKS, AWS S3, Jenkins, Git, Java, Maven, Docker Hub,  
+- Terraform, AWS, Docker, Linux, Git, AWS EKS, AWS S3, Jenkins, Java, Maven, Docker Hub,  
 
 ## Job 1: Automate AWS Infrastructure
 #### Job description:
